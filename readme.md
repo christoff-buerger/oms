@@ -79,6 +79,7 @@ OS, controlling all other modules. Suggestions:
 ### Audio
 
 Audio decoder & IO.
+Asus Xonar STX
 
 ## mini PCIe -> PCIe
 
