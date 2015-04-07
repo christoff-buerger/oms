@@ -33,7 +33,7 @@ OS, controlling all other modules. Suggestions:
      * V1.4a 1080p (1920x1080), DivX 3/4/5/6, H.263, H.264, MJPEG, MPEG-2, MPEG4, VC1
    * Apalis Heatsink Type 2 V1.0A, 11,00€
      * **BEWARE:** Does V1.0A imply it only works with the Apalis T30 1GB V1.0A and **not** the Apalis T30 2GB V1.0E
-   * Carrier Board Accessory Kit | V1.0A, 25,00€
+   * Carrier Board Accessory Kit V1.0A, 25,00€
      * Cables: USB, Ethernet, RS232, Jumper Wires
      * Adapters: DVI to VGA, DVI to HDMI, USB to RS232, USB Micro-A to A (USB Micro-AB receptacle to Type A), RS232 Header to D-Sub, Iris Power-adapter
      * Power Adapter: 12VDC 30W with international plugs
