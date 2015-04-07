@@ -80,7 +80,7 @@ OS, controlling all other modules. Suggestions:
 
 Audio amplifier, decoder & interface.
 
- * [Asus Xonar STX](http://www.asus.com/Essence_HiFi_Audio/Xonar_Essence_STX/overview/)
+ * [Asus Xonar STX](http://www.asus.com/Essence_HiFi_Audio/Xonar_Essence_STX/overview/), 160,00€
    * PCIe 1.0, compatible with x1, x4, x8 or x16 slots
 
 ## mini PCIe -> PCIe
