@@ -20,15 +20,15 @@ OS, controlling all other modules. Suggestions:
      * Micro SIM
    * [SoM: Apalis T30 2GB - V1.0E, NVIDIA Tegra 3](https://www.toradex.com/computer-on-modules/apalis-arm-family/nvidia-tegra-3), 146,00€
      * ARM Cortex™-A9, Quad Core, 1.4 GHz
-     * RAM 2GB DDR3L (32 Bit), Flash 8GB eMMC (8 Bit)
-     * PCIe 1x1 1x4
+     * RAM 2GB DDR3L @ 1600MT/s (32 Bit), Flash 8GB eMMC (8 Bit)
+     * PCIe (Gen 1.0) 5 Lane (1 x1 +1 x4*)
      * Integrated Ultra-low power NVIDIA GeForce GPU
      * HDMI V1.4a 1080p (1920x1080), DiVX 4/5/6, H.263, H.264, JPEG, MPEG-2, MPEG-4, WMV9 VC-1, XviD
    * [SoM alternative: Apalis iMX6 Quad 2GB IT - V1.1A, Freescale® i.MX 6Q](https://www.toradex.com/computer-on-modules/apalis-arm-family/freescale-imx-6), 124,00€
      * industrial -40° to 85° C
      * Freescale i.MX6 ARM Cortex™-A9, Quad Core, 800 MHz
-     * RAM 2GB DDR3 (64 Bit), Flash 4GB eMMC (8 Bit)
-     * PCIe 1x1
+     * RAM 2GB DDR3 @ 1066MT/s (64 Bit), Flash 4GB eMMC (8 Bit)
+     * PCIe (Gen 2.0) 1 Lane
      * Vivante GC2000
      * V1.4a 1080p (1920x1080), DivX 3/4/5/6, H.263, H.264, MJPEG, MPEG-2, MPEG4, VC1
    * Apalis Heatsink Type 2 V1.0A, 11,00€
@@ -41,7 +41,7 @@ OS, controlling all other modules. Suggestions:
      * Alternative to mini PCIe to PCI adapter?
      * **BEWARE:** Does V1.1A imply it only works with the development carrier board and **not** the Ixora? 
 
- * **Keith & Koep**
+ * **Keith & Koep** TODO
    * [Base board: pConXS FF](http://www.keith-koep.com/en/products/pconxs-ff/)
      * PCIe
      * 4x USB 2.0
@@ -78,9 +78,12 @@ OS, controlling all other modules. Suggestions:
 
 ### Audio
 
-Audio decoder & IO.
-Asus Xonar STX
+Audio amplifier, decoder & interface.
+
+ * [Asus Xonar STX](http://www.asus.com/Essence_HiFi_Audio/Xonar_Essence_STX/overview/)
+   * PCIe 1.0, compatible with x1, x4, x8 or x16 slots
 
 ## mini PCIe -> PCIe
 
+TODO:
 [amfeltec](http://amfeltec.com/products/flexible-minipci-express-to-pci-express-adapter/)
