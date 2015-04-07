@@ -45,7 +45,7 @@ OS, controlling all other modules. Suggestions:
    * [Base board: pConXS FF](http://www.keith-koep.com/en/products/pconxs-ff/)
      * PCIe
      * 4x USB 2.0
-   * [SoM: Trizeps VII]()(http://www.keith-koep.com/en/products/trizeps7-i.MX6/)
+   * [SoM: Trizeps VII](http://www.keith-koep.com/en/products/trizeps7-i.MX6/)
      * Freescale i.MX6 ARM Cortex™-A9, Quad, 1 GHz
      * RAM 1GB DDR3 (64 Bit)
  
