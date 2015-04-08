@@ -21,7 +21,7 @@ OS, controlling all other modules. Suggestions:
    * [SoM: Apalis T30 2GB - V1.0E, NVIDIA Tegra 3](https://www.toradex.com/computer-on-modules/apalis-arm-family/nvidia-tegra-3), 146,00€
      * ARM Cortex™-A9, Quad Core, 1.4 GHz
      * RAM 2GB DDR3L @ 1600MT/s (32 Bit), Flash 8GB eMMC (8 Bit)
-     * PCIe (Gen 1.0) 5 Lane (1 x1 +1 x4*)
+     * PCIe (Gen 1.0) 5 Lane (1x1 + 1x4)
      * Integrated Ultra-low power NVIDIA GeForce GPU
      * HDMI V1.4a 1080p (1920x1080), DiVX 4/5/6, H.263, H.264, JPEG, MPEG-2, MPEG-4, WMV9 VC-1, XviD
    * [SoM alternative: Apalis iMX6 Quad 2GB IT - V1.1A, Freescale® i.MX 6Q](https://www.toradex.com/computer-on-modules/apalis-arm-family/freescale-imx-6), 124,00€
@@ -76,14 +76,23 @@ OS, controlling all other modules. Suggestions:
      * RAM 2GB DDR3 (64 Bit)
    * AC power adapter, 10,00€
 
+ * [Amfeltec Flexible mini PCIe 2.0 to 2x PCIe 2.1 Splitter](http://amfeltec.com/products/flexible-minipci-express-to-2-x1-pci-express-splitter/)
+   * Power from either:
+     * Standard ATX power supply (“floppy disk” connector, 12 and 5 volts) via x1 PCIe adapter board
+     * Any external 12V power supply via x1 PCIe adapter board
+
+ * [Amfeltec Flexible mini PCIe 2.0 to PCIe Adapter (SKU-035)](http://amfeltec.com/products/flexible-minipci-express-to-pci-express-adapter/)
+   * mini PCIe 2.0 full or half size
+   * Power from either:
+     * mini PCIe Host card (3.3 volt only) via power cable and x1 PCIe adapter board (maximum peak current 2.75A, maximum normal current 1.1A)
+       * **BEWARE:** Not sufficient for Asus Xonar STX!
+     * Standard ATX power supply (“floppy disk” connector, 12 and 5 volts) via x1 PCIe adapter board
+     * Any external 12V power supply via x1 PCIe Adapter board
+
 ### Audio
 
 Audio amplifier, decoder & interface.
 
  * [Asus Xonar STX](http://www.asus.com/Essence_HiFi_Audio/Xonar_Essence_STX/overview/), 160,00€
    * PCIe 1.0, compatible with x1, x4, x8 or x16 slots
-
-## mini PCIe -> PCIe
-
-TODO:
-[amfeltec](http://amfeltec.com/products/flexible-minipci-express-to-pci-express-adapter/)
+   * **BEWARE:** Requires additional 4-pin power supply
